@@ -3,3 +3,5 @@ pandas>=1.5.0
 plotly>=5.15.0
 requests>=2.31.0
 pandasai>=2.0.0
+folium>=0.14.0
+streamlit-folium>=0.11.0
